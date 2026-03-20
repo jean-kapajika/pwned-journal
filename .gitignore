@@ -1,0 +1,9 @@
+# Ignore VPN configs 
+*.ovpn 
+
+# Ignore raw sensitive dumps 
+passwd 
+shadow 
+*.zip 
+*.rar 
+
